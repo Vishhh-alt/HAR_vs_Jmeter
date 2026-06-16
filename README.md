@@ -1,6 +1,6 @@
 # HAR vs JMeter — Gap Analyser
 
-> Compare real browser load time (HAR files) with JMeter results — side by side, in a rich HTML report. No plugin required.
+Use HAR to audit whether your JMeter script covers what the browser actually loads. Don't compare the numbers. Compare the coverage
 
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-green)](https://python.org/)
 [![JMeter 5.x](https://img.shields.io/badge/JMeter-5.x-orange)](https://jmeter.apache.org/)
