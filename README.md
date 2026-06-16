@@ -1,4 +1,4 @@
-# HAR vs JMeter — Performance Gap Analyser
+# HAR vs JMeter — Gap Analyser
 
 > Compare real browser load time (HAR files) with JMeter results — side by side, in a rich HTML report. No plugin required.
 
